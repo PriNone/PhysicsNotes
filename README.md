@@ -1,2 +1,2 @@
 ### site:
-https://prinone.github.io/PhysicsNotes/
+https://prinone.github.io/t/
